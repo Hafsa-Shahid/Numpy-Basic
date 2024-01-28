@@ -1,2 +1,2 @@
 # Numpy-Basic
-The basic operations and uses of numpy
+This file defines the basic functions of numpy. It consists of the basic commands and operations that the library might have and can be useful in understanding the uses of library in advanced codes.With demonstrating how we can create arrays of different sizes and elements using the library, this file has codes that shows the indexing techniques which can be used to fetch elements from the long arrays, and manipulating arrays to form matrices.
